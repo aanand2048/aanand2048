@@ -8,7 +8,7 @@ Having used data analytics to answer difficult questions and presenting these te
 
 * 🌍  I'm based in New York
 * ✉️  You can contact me at [abhishekanand2048@gmail.com](mailto:abhishekanand2048@gmail.com)
-* 🧠  I'm learning Python's ML libraries!
+* 🧠  I'm learning Python's ML libraries! I'm also working on my startup idea that will, hopefully, revolutionize how we deal with certain social/political problems!
 * 🤝  I'm open to collaborating on projects that bring significant positive value to the world!
 * ⚡  Soccer is my favorite sport - if you support Liverpool/Barca, hmu to become friends haha! If you support anyone else, I'm always down for some footy banter!!
 
