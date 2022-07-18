@@ -6,6 +6,10 @@ Data Science and AI/ML
 
 Having used data analytics to answer difficult questions and present these technical findings in a non-technical, palatable way to clients over the past 3 years (+4 more years during my student years across quantitative and consulting projects), I've now decided to pursue a graduate degree in Artificial Intelligence to become more data-driven and help shift the world towards the utopian existence that I envision, where I can lend the power of technology to accelerate our understanding of the world, business and societal problems and solve these to then move onto bigger problems!
 
+Please check out the following in my repositories:
+1. SQL mini-projects and one-off queries from various datasets.
+2. Python data analytics/science projects using datasets of different sizes, showcasing different skills in data cleaning/wrangling/analysis.
+
 * 🌍  I'm based in New York.
 * ✉️  You can contact me at [abhishekanand2048@gmail.com](mailto:abhishekanand2048@gmail.com).
 * 🧠  I'm currently learning Python's ML libraries! I'm also working on my startup idea that will, hopefully, revolutionize how we deal with certain social/political/business problems.
