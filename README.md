@@ -10,6 +10,8 @@ Please check out the following in my repositories:
 1. SQL mini-projects and one-off queries from various datasets.
 2. Python data analytics/science projects using datasets of different sizes, showcasing different skills in data cleaning/wrangling/analysis.
 
+A little about me:
+
 * 🌍  I'm based in New York.
 * ✉️  You can contact me at [abhishekanand2048@gmail.com](mailto:abhishekanand2048@gmail.com).
 * 🧠  I'm currently learning Python's ML libraries! I'm also working on my startup idea that will, hopefully, revolutionize how we deal with certain social/political/business problems.
