@@ -4,7 +4,7 @@ Hi 👋 My name is Abhishek Anand
 Data Science and AI/ML
 ----------------------
 
-Having used data analytics to answer difficult questions and present these technical findings in a non-technical, palatable way to clients over the past 3 years (+4 more years during my student years across quantitative and consulting projects), I've now decided to pursue a graduate degree in Artificial Intelligence to become more data-driven and help shift the world towards the utopian existence that I envision, where I can lend the power of technology to accelerate our understanding of the world, business and societal problems and solve these to then move onto bigger problems!
+Having used data analytics to answer difficult questions and present these technical findings in a non-technical, palatable way to clients over the past 3 years (+4 more years during my student years across quantitative and consulting projects), I've now decided to pursue a graduate degree in Analytics (Machine Learning Concentration) to become more data-driven and help shift the world towards the utopian existence that I envision, where I can lend the power of technology to accelerate our understanding of the world, business and societal problems and solve these to then move onto bigger problems!
 
 Please check out the following in my repositories:
 1. SQL mini-projects and one-off queries from various datasets.
